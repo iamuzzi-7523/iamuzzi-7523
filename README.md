@@ -46,7 +46,7 @@ A restaurant landing page designed and developed as a frontend web project.
 
 **Tech:** HTML · CSS · JavaScript
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/iamuzzi-7523/spice-garden)
 
 ---
 
